@@ -7,19 +7,13 @@
 
 🍎 安装脚手架
 ```bash
-npm i -g awesome-test-cli
+npm i -g rnfs-cli
 ```
 
 🍏 使用脚手架创建项目
 
 ```bash
-awesome-test create project-name
+rnfs-cli create project-name
 ```
 
-🍌 新建页面
-```bash
-awesome-test page page-name
-```
-
-QQ交流群：<br />
-![](./IMG_4546.JPG)
+🍌 参考  [awesome-test-cli](https://juejin.im/post/5dd10fb76fb9a01fe303a5aa#heading-3)
