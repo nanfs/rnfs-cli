@@ -4,7 +4,7 @@
   "description": "react项目",
   "main": "index.js",
   "bin": {
-    "nfs": "bin/main.js"
+    "rnfs": "bin/main.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
